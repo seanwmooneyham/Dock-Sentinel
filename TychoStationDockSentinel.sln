@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TychStationDockSentinel.Server", "TychoStationDockSentinel.Server\TychStationDockSentinel.Server.csproj", "{59CB016C-DC2C-4285-923B-243C6B1D68F2}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tychostationdocksentinel.client", "tychostationdocksentinel.client\tychostationdocksentinel.client.esproj", "{4C8AAD0D-3A6B-438C-BDE6-0C348C00764F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59CB016C-DC2C-4285-923B-243C6B1D68F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CB016C-DC2C-4285-923B-243C6B1D68F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CB016C-DC2C-4285-923B-243C6B1D68F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CB016C-DC2C-4285-923B-243C6B1D68F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8AAD0D-3A6B-438C-BDE6-0C348C00764F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8AAD0D-3A6B-438C-BDE6-0C348C00764F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8AAD0D-3A6B-438C-BDE6-0C348C00764F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4C8AAD0D-3A6B-438C-BDE6-0C348C00764F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8AAD0D-3A6B-438C-BDE6-0C348C00764F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8AAD0D-3A6B-438C-BDE6-0C348C00764F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33681009-BB75-45A9-BCEA-93619FF14E42}
+	EndGlobalSection
+EndGlobal
